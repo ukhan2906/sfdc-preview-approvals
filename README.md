@@ -113,7 +113,7 @@ graph TD;
     I --> G;
     H -- No --> J[Display Appropriate Error Message];
     G --> K[Enable/Disable Submit Button];
-    K --> L{User Clicks "Submit for Approval"?};
+    K --> L{User Clicks 'Submit for Approval'?};
     L -- Yes --> M[Call submitForApproval Apex Method];
     M --> N[Submit Record for Approval];
     N --> O[Redirect to Record Page];
