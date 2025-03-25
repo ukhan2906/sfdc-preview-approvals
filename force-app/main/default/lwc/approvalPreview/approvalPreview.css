@@ -1,0 +1,7 @@
+.slds-pill {
+    border-radius: 16px; /* Make it pill-shaped */
+    color: white; /* Text color */
+    padding: 4px 8px; /* Adjust padding as needed */
+    font-size: 0.75rem; /* Adjust font size as needed */
+    display: inline-block; /* Ensures it behaves like an inline element */
+}
