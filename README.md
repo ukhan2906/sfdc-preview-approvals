@@ -87,14 +87,7 @@ This project allows Salesforce users to easily preview an approval process for a
 
 ## Future Enhancements
 
-- **Asynchronous Processing:**  
-  Consider using future methods or queueable jobs for handling approval submissions if the process becomes resource intensive.
-  
-- **Enhanced User Notifications:**  
-  Integrate more detailed notifications or toast messages to inform users of the status of their submission.
-  
-- **Customizable UI:**  
-  Allow customization of the datatable columns and the styling of the approval process details via component properties.
+- **TBD:**
 
 ## Flow Diagram
 
