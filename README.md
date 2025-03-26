@@ -1,6 +1,6 @@
 # Approval Preview and Submission for Salesforce
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=ukhan2906&repo=https://github.com/ukhan2906/sfdc-preview-approvals&ref=main">
+<a href="https://githubsfdeploy.herokuapp.com?owner=ukhan2906&repo=sfdc-preview-approvals&ref=main">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
