@@ -1,5 +1,10 @@
 # Approval Preview and Submission for Salesforce
 
+<a href="https://githubsfdeploy.herokuapp.com?owner=ukhan2906&repo=https://github.com/ukhan2906/sfdc-preview-approvals&ref=main">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 This repository contains an implementation of an approval process preview and submission tool for Salesforce. It consists of an Apex controller (`ApprovalPreviewControllerLWC`) and a Lightning Web Component (LWC) that work together to:
 
 - **Preview the Approval Process:** Retrieve the details of the approval process for a given record (including the list of approval steps).
